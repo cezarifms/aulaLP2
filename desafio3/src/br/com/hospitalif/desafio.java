@@ -1,4 +1,4 @@
-package aula0908;
+package br.com.hospitalif;
 
 public class desafio {
 
